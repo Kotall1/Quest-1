@@ -1,3 +1,2 @@
 <?php
-
-echo 'Hello!';
+include("form.html");
