@@ -1,3 +1,6 @@
+<?php
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -5,7 +8,7 @@
     <title>Title</title>
 </head>
 <body>
-<form action="" method="post">
+<form action="post.php" method="post">
     Введите имя пользователя:
     <input type="text" name="username">
     Введите пароль:
