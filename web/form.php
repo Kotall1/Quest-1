@@ -1,6 +1,4 @@
-<?php
 
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,11 +6,14 @@
     <title>Netology quest</title>
 </head>
 <body>
+<hr>
+<p>Автор: Денис Ахабанин </p>
+<hr>
 <form action="post.php" method="post">
     Введите имя пользователя:
     <input type="text" name="username">
-    <input type="submit" name="Выйти">
-    <p>Ну я короче автор такой то такой то, ни какой то.</p>
+    <input type="submit" name="login" value="Войти">
+
 </form>
 </body>
 </html>
